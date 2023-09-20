@@ -1,1 +1,1 @@
-# BearProject
+# BeerProject
